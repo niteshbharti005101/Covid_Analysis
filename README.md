@@ -18,9 +18,9 @@ using different machine learning models.
 ![](1.png)
 ![](2.png)
 ![](3.png)
-![](4.png)
 ![](5.png)
 ![](6.png)
+![](4.png)
 
 
 ***ML Algorithms Used*** :
