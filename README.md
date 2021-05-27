@@ -1,6 +1,6 @@
 # Covid19 Cases Analysis for India
 
-*** What is this project all about ***
+***What is this project all about***
 > The coronavirus disease 2019 (COVID-19) is a public health emergency of international
 concern affecting 201 countries and territories worldwide. On May 2nd 2021, it has
 caused an outbreak with more than 1.99 Crore confirmed infections and more than 2
@@ -11,7 +11,7 @@ average number of cases per day etc.
 > It will also make predictions of the future cases
 using different machine learning models.
 
-### The entire project is coded in Python
+### The entire project is coded in Python ###
 
 
 
