@@ -15,12 +15,12 @@ using different machine learning models.
 
 
 ***Some Analysis Report***
-![](1.PNG)
-![](2.PNG)
-![](3.PNG)
-![](4.PNG)
-![](5.PNG)
-![](6.PNG)
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
 
 
 ***ML Algorithms Used*** :
